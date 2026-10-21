@@ -1,0 +1,3 @@
+# Snapshots oficiais: preservar bytes, codificação e quebras de linha para SHA-256.
+/fonte/*.htm -text -whitespace
+/municipais/_fonte/**/*.html -text -whitespace
