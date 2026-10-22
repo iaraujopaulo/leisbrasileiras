@@ -1,0 +1,50 @@
+---
+titulo: "ADPF nº 330 do STF"
+tribunal: "STF"
+tipo: "ADPF"
+numero: "330"
+data:
+situacao: ""
+id_bnp: "stf-adpf-330"
+atualizacao_fonte: "19/08/2015"
+versao_texto: "Banco Nacional de Precedentes do CNJ"
+fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
+baixado_em: 2026-10-15
+---
+
+# ADPF nº 330 do STF
+
+## Registro original do CNJ
+
+```json
+{
+  "cautelar": "NAO",
+  "decisao": "AGRAVO_REGIMENTAL",
+  "historico": [
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-06-02T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Admitido"
+    },
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-08-21T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Acórdão Publicado"
+    }
+  ],
+  "id": "stf-adpf-330",
+  "linkDecisao": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=752291713",
+  "nr": "330",
+  "orgao": "STF",
+  "possuiDecisoes": true,
+  "textoAtoImpugnado": "LEG-FED CF ANO-1988 ART-00005 INC-00074 ART-00102 PAR-00001 ART-00134 \"CAPUT\" PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009882 ANO-1999 ART-00001 \"CAPUT\" PAR-ÚNICO ART-00004 PAR-00001 ART-00005 PAR-00004 ART-00009 LEI ORDINÁRIA LEG-FED MSG-001807 ANO-1999 MENSAGEM LEG-EST LEI-010437 ANO-2015 LEI ORDINÁRIA, PB LEG-EST EMD-000310 ANO-2015 EMENDA DE REMANEJAMENTO AO PROJETO DE LEI ORÇAMENTÁRIA ANUAL - PLOA - PB",
+  "textoDecisao": "O Tribunal, por unanimidade e nos termos do voto do Relator, negou provimento ao agravo regimental. Ausente, justificadamente, o Ministro Dias Toffoli, participando, na qualidade de Presidente do Tribunal Superior Eleitoral, da 2ª Assembleia Geral e Conferência Internacional da Associação Mundial de Órgãos Eleitorais, organizadas pela Associação Mundial de Órgãos Eleitorais (AWEB), e, neste julgamento, ausente a Ministra Cármen Lúcia. Presidiu o julgamento o Ministro Ricardo Lewandowski. Plenário, 19.08.2015.",
+  "textoEmenta": "E M E N T A: ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL (CF, ART. 102, § 1º) – SITUAÇÃO DE PONTECIALIDADE DANOSA DERIVADA DE CORTE UNILATERAL IMPOSTO PELO CHEFE DO PODER EXECUTIVO ESTADUAL À PROPOSTA ORÇAMENTÁRIA ELABORADA PELA DEFENSORIA PÚBLICA LOCAL – ADMISSIBILIDADE, OU NÃO, DO CONTROLE, MEDIANTE ARGUIÇÃO DE DESCUMPRIMENTO, DAS ETAPAS QUE COMPÕEM O PROCESSO DE FORMAÇÃO DAS LEIS, INCLUSIVE DOS VETOS GOVERNAMENTAIS: O “STATUS QUAESTIONIS” NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – SUPERVENIENTE PROMULGAÇÃO E PUBLICAÇÃO DA LEI ORÇAMENTÁRIA ANUAL COM A MANUTENÇÃO DOS VETOS APOSTOS PELO GOVERNADOR DO ESTADO – CONSEQUENTE PERDA DO OBJETO DA PRESENTE ARGUIÇÃO DE DESCUMPRIMENTO, QUE OBJETIVA, TÃO SOMENTE, A SUSPENSÃO DO PROCESSO LEGISLATIVO E A INCLUSÃO, NO PROJETO DE LEI ORÇAMENTÁRIA ANUAL, DA PROPOSTA ENCAMINHADA ORIGINALMENTE PELA DEFENSORIA PÚBLICA ESTADUAL – PREJUDICIALIDADE RECONHECIDA – PRETENSÃO DE INCONSTITUCIONALIDADE QUE JÁ NÃO PODE MAIS SER APRECIADA EM SEDE DE ARGUIÇÃO DE DESCUMPRIMENTO, POR DIRIGIR-SE, AGORA, A ATO ESTATAL POSITIVO DE ÍNDOLE PÓS-CONSTITUCIONAL (LEI ESTADUAL Nº 10.437) – POSTULADO DA SUBSIDIARIEDADE – EXISTÊNCIA, NO ORDENAMENTO POSITIVO, DE INSTRUMENTO PROCESSUAL APTO A SANAR, DE MODO EFICAZ, A SITUAÇÃO DE LESIVIDADE ALEGADAMENTE RESULTANTE DO ATO ESTATAL IMPUGNADO – CONSEQUENTE INVIABILIDADE DA ARGUIÇÃO DE DESCUMPRIMENTO – PRECEDENTES – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DESTA ESPÉCIE RECURSAL – RECURSO DE AGRAVO IMPROVIDO.",
+  "tipo": "ADPF",
+  "ultimaAtualizacao": "19/08/2015"
+}
+```

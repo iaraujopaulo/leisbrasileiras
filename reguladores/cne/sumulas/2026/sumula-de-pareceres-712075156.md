@@ -1,0 +1,45 @@
+---
+titulo: "SÚMULA DE PARECERES"
+orgao: "Ministério da Educação/Conselho Nacional de Educação/Secretaria Executiva"
+tipo: "Súmula"
+numero: ""
+data: 2026-06-15
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2026, seção 1, p. 40"
+data_publicacao: 2026-06-15
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/sumula-de-pareceres-712075156"
+baixado_em: 2026-10-15
+---
+# SÚMULA DE PARECERES
+
+SÚMULA DE PARECERES
+
+REUNIÃO ORDINÁRIA DOS DIAS 11, 12, 13 E 14 DO MÊS DE MAIO/2026
+
+(Complementar à Publicada no DOU de 8/6/2026, Seção 1, p. 175)
+
+CÂMARA DE EDUCAÇÃO SUPERIOR
+
+e-MEC: 202017636. Parecer: CNE/CES 162/2026. Relator: Paulo Fossatti. Interessado: Centro de Ensino Método - Eireli - São Paulo/SP. Assunto: Recredenciamento da Faculdade Método de São Paulo - Famesp, no formato a distância, com sede no município de São Paulo, no estado de São Paulo. Voto do Relator: Voto favoravelmente ao recredenciamento da Faculdade Método de São Paulo - Famesp, no formato a distância, com sede na Avenida Jabaquara, nº 1.314, bairro Mirandópolis, no município de São Paulo, no estado de São Paulo, observando-se tanto o prazo de quatro anos, conforme dispõe a Portaria Normativa MEC nº 1, de 3 de janeiro de 2017, quanto a exigência avaliativa prevista no Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+e-MEC: 202027364. Parecer: CNE/CES 163/2026. Relator: Paulo Fossatti. Interessada: Ibmec Educacional Ltda. - São Paulo/SP. Assunto: Recredenciamento da Faculdade Ibmec São Paulo, com sede no município de São Paulo, no estado de São Paulo, para a oferta de cursos superiores no formato a distância. Voto do Relator: Nos termos do Decreto nº 9.057, de 25 de maio de 2017, e da Portaria Normativa MEC nº 11, de 22 de junho de 2017, voto favoravelmente ao recredenciamento, para a oferta de cursos superiores no formato a distância, da Faculdade Ibmec São Paulo, com sede na Alameda Santos, nº 2.356, bairro Cerqueira César, no município de São Paulo, no estado de São Paulo, observando-se tanto o prazo de cinco anos, conforme dispõe a Portaria Normativa MEC nº 1, de 3 de janeiro de 2017, quanto a exigência avaliativa prevista no Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+e-MEC: 202306171. Parecer: CNE/CES 165/2026. Relator: Celso Niskier. Interessado: E B de Brito Treinamento Profissional Ltda. - Pacajus/CE. Assunto: Credenciamento da Faculdade Luiz Nobre de Brito - Fanobre, a ser instalada no município de Pacajus, no estado do Ceará, para a oferta de cursos superiores no formato presencial. Voto do Relator: Voto desfavoravelmente ao credenciamento da Faculdade Luiz Nobre de Brito - Fanobre, para a oferta de cursos superiores no formato presencial, que seria instalada na Rua Carlito Lopes, nº 395, bairro Croatá II, no município de Pacajus, no estado do Ceará, conforme o art. 6º, inciso II, do Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+Processo: 23709.000159/2016-28. Parecer: CNE/CES 169/2026. Relator: Henrique Sartori de Almeida Prado. Interessada: Uniesp S.A - Olímpia/SP. Assunto: Recurso contra a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES que, por meio da Portaria nº 973, de 23 de dezembro de 2025, publicada no Diário Oficial da União - DOU, em 24 de dezembro de 2025, determinou o descredenciamento da Faculdade de Belo Horizonte - FDR, com sede no município de Belo Horizonte, no estado de Minas Gerais. Voto do Relator: Nos termos do art. 6º, inciso VI, do Decreto nº 9.235, de 15 de dezembro de 2017, conheço do recurso para, no mérito, negar-lhe provimento, mantendo a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES, expressa na Portaria nº 973, de 23 de dezembro de 2025, que determinou o descredenciamento da Faculdade de Belo Horizonte - FDR, com sede na Rua Ubá, nº 396, bairro Floresta, no município de Belo Horizonte, no estado do Minas Gerais. Voto, também, no sentido de que a SERES defina, junto à entidade mantenedora, a responsabilidade sobre guarda e gestão do acervo acadêmico da IES, nos termos do art. 58 do Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+Processo: 23709.000175/2016-11. Parecer: CNE/CES 170/2026. Relator: Henrique Sartori de Almeida Prado. Interessada: Uniesp S.A - Olímpia/SP. Assunto: Recurso contra a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES que, por meio da Portaria nº 989, de 23 de dezembro de 2025, publicada no Diário Oficial da União - DOU, em 24 de dezembro de 2025, determinou o descredenciamento da Faculdade de Santa Bárbara D'oeste, com sede no município de Santa Bárbara D'oeste, no estado de São Paulo. Voto do Relator: Nos termos do art. 6º, inciso VI, do Decreto nº 9.235, de 15 de dezembro de 2017, conheço do recurso para, no mérito, negar-lhe provimento, mantendo a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES, expressa na Portaria nº 989, de 23 de dezembro de 2025, que determinou o descredenciamento da Faculdade de Santa Bárbara D'oeste, com sede na Rua da Agricultura, nº 4.000, bairro Gerivá, no município de Santa Bárbara D'Oeste, no estado de São Paulo. Voto, também, no sentido de que a SERES defina, junto à entidade mantenedora, a responsabilidade sobre guarda e gestão do acervo acadêmico da IES, nos termos do art. 58 do Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+Processo: 23709.000221/2016-81. Parecer: CNE/CES 171/2026. Relator: Henrique Sartori de Almeida Prado. Interessada: Uniesp S.A - Olímpia/SP. Assunto: Recurso contra a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES que, por meio da Portaria nº 992, de 23 de dezembro de 2025, publicada no Diário Oficial da União - DOU, em 24 de dezembro de 2025, determinou o descredenciamento da Faculdade de Ilha Solteira - Faisa, com sede no município de Ilha Solteira, no estado de São Paulo. Voto do Relator: Nos termos do art. 6º, inciso VI, do Decreto nº 9.235, de 15 de dezembro de 2017, conheço do recurso para, no mérito, negar-lhe provimento, mantendo a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES, expressa na Portaria nº 992, de 23 de dezembro de 2025, que determinou o descredenciamento da Faculdade de Ilha Solteira - Faisa, com sede na Alameda Bahia, nº 490-C, Centro, no município de Ilha Solteira, no estado de São Paulo. Voto, também, no sentido de que a SERES defina, junto à entidade mantenedora, a responsabilidade sobre guarda e gestão do acervo acadêmico da IES, nos termos do art. 58 do Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+Processo: 23000.026443/2024-10. Parecer: CNE/CES 178/2026. Relator: Paulo Fossatti. Interessada: Uniesp S.A - Olímpia/SP. Assunto: Recurso contra a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES que, por meio da Portaria nº 979, de 23 de dezembro de 2025, publicada no Diário Oficial da União - DOU, em 24 de dezembro de 2025, determinou o descredenciamento da Faculdade de Administração, Ciências Econômicas e Contábeis de Guaratinguetá - Faceag, com sede no município de Guaratinguetá, no estado de São Paulo. Voto do Relator: Nos termos do art. 6º, inciso VI, do Decreto nº 9.235, de 15 de dezembro de 2017, conheço do recurso para, no mérito, negar-lhe provimento, mantendo a decisão da Secretaria de Regulação e Supervisão da Educação Superior - SERES, expressa na Portaria nº 979, de 23 de dezembro de 2025, que determinou o descredenciamento da Faculdade de Administração, Ciências Econômicas e Contábeis de Guaratinguetá - Faceag, com sede na Avenida Pedro de Toledo, nº 195, bairro Vila Paraíba, no município de Guaratinguetá, no estado de São Paulo. Voto, também, no sentido de que a SERES defina, junto à entidade mantenedora, a responsabilidade sobre guarda e gestão do acervo acadêmico da IES, nos termos do art. 58 do Decreto nº 9.235, de 15 de dezembro de 2017. Decisão da Câmara: APROVADO por unanimidade.
+
+Observação: De acordo com o Regimento Interno do CNE e a Lei nº 9.784, de 29 de janeiro de 1999, os interessados terão prazo de 30 (trinta) dias para recursos, quando couber, a partir da data de publicação desta Súmula no Diário Oficial da União, ressalvados os processos em trâmite no Sistema e-MEC, cuja data de publicação, para efeito de contagem do prazo recursal, será efetuada a partir da publicação nesse Sistema, nos termos do art. 1º, § 4º, da Portaria Normativa MEC nº 21, de 21 de dezembro de 2017. Em face do disposto no art. 2º da Lei nº 9.131, de 24 de novembro de 1995, os pareceres do Conselho Nacional de Educação - CNE somente produzirão efeitos após a publicação do respectivo ato homologatório exarado pelo Ministro de Estado da Educação. Os Pareceres citados encontram-se à disposição dos interessados no Conselho Nacional de Educação e serão divulgados na página do CNE.
+
+Brasília, 12 de junho de 2026
+
+CHRISTY GANZERT PATO
+
+Secretário Executivo

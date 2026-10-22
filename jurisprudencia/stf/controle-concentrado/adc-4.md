@@ -1,0 +1,50 @@
+---
+titulo: "ADC nº 4 do STF"
+tribunal: "STF"
+tipo: "ADC"
+numero: "4"
+data:
+situacao: ""
+id_bnp: "stf-adc-4"
+atualizacao_fonte: "11/02/1998"
+versao_texto: "Banco Nacional de Precedentes do CNJ"
+fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
+baixado_em: 2026-10-15
+---
+
+# ADC nº 4 do STF
+
+## Registro original do CNJ
+
+```json
+{
+  "cautelar": "SIM",
+  "decisao": "MEDIDA_CAUTELAR",
+  "historico": [
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-06-02T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Admitido"
+    },
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-08-21T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Acórdão Publicado"
+    }
+  ],
+  "id": "stf-adc-4",
+  "linkDecisao": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=372905",
+  "nr": "4",
+  "orgao": "STF",
+  "possuiDecisoes": true,
+  "textoAtoImpugnado": "LEG-FED CF ANO-1988 ART-00005 INC-00035 ART-00100 ART-00102 INC-00001 LET-A LET-P PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00265 INC-00004 ART-00273 ART-00461 ART-00475 INC-00002 PAR-ÚNICO CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-004348 ANO-1964 ART-00005 PAR-ÚNICO ART-00007 LEG-FED LEI-005021 ANO-1966 ART-00001 PAR-00004 LEG-FED LEI-008437 ANO-1992 ART-00001 LEG-FED LEI-008437 ANO-1992 ART-00003 ART-00004 LEG-FED LEI-009494 ANO-1997 ART-00001 ART-00002 LEG-FED MPR-001570 ANO-1997 ART-00001 ART-00002 ART-00003",
+  "textoDecisao": "Depois dos votos dos Ministros Sydney Sanches (Relator), Nelson Jobim, Maurício Corrêa e Ilmar Galvão, que conheciam do pedido de de medida cautelar, por admitirem possível o exercício, pelo Supremo Tribunal Federal, em sede de ação declaratória de constitucionalidade, do poder geral de cautela, o julgamento foi suspenso em virtude de pedido de vista formulado pelo Ministro Marco Aurélio. Ausente,justificadamente, o Ministro Carlos Velloso. Plenário, 10-12-1997. Decisão: O Tribunal, por votação majoritária, conheceu do pedido de medida cautelar, por entender possível o exercício, pelo Supremo Tribunal Federal, em sede de ação declaratória de constitucionalidade, do poder geral de cautela, vencidos os Ministros Marco Aurélio e Ilmar Galvão, que dele não conheciam. Votou o Presidente. Em seguida, o julgamento do pedido de medida cautelar foi adiado por indicação do Ministro-Relator. Plenário, 05-02-1998. Decisão: O Tribunal, por votação majoritária, deferiu, em parte, o pedido de medida cautelar, para suspender, com eficácia ex nunc e com efeito vinculante, até final julgamento da ação, a prolação de qualquer decisão sobre pedido de tutela antecipada, contra a Fazenda Pública, que tenha por pressusposto a constitucionalidade ou a inconstitucionalidade do art. 1º da Lei nº 9.494, de 10/9/97, sustando, ainda, com a mesma eficácia, os efeitos futuros dessas decisões antecipatórias de tutela já proferidas contra a Fazenda Pública, vencidos, em parte, o Ministro Néri da Silveira, que deferia a medida cautelar em menor extensão, e, integralmente, os Ministros Ilmar Galvão e Marco Aurélio, que a indeferiam. Votou o Presidente. Plenário, 11-02-1998.",
+  "textoEmenta": "EMENTA: AÇÃO DIRETA DE CONSTITUCIONALIDADE DO ART. 1º DA LEI N 9.494, DE 10.09.1997, QUE DISCIPLINA A APLICAÇÃO DA TUTELA ANTECIPADA CONTRA A FAZENDA PÚBLICA. MEDIDA CAUTELAR: CABIMENTO E ESPÉCIE, NA A.D.C. REQUISITOS PARA SUA CONCESSÃO. 1. Dispõe o art. 1º da Lei nº 9.494, da 10.09.1997: \"Art. 1º . Aplica-se à tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil, o disposto nos arts 5º e seu parágrafo único e art. 7º da Lei nº 4.348, de 26 de junho de 1964, no art. 1º e seu § 4º da Lei nº 5.021, de 09 de junho de 1966, e nos arts. 1º , 3º e 4º da Lei nº 8.437, de 30 de junho de 1992.\" 2. Algumas instâncias ordinárias da Justiça Federal têm deferido tutela antecipada contra a Fazenda Pública, argumentando com a inconstitucionalidade de tal norma. Outras instâncias igualmente ordinárias e até uma Superior - o S.T.J. - a têm indeferido, reputando constitucional o dispositivo em questão. 3. Diante desse quadro, é admissível Ação Direta de Constitucionalidade, de que trata a 2ª parte do inciso I do art. 102 da C.F., para que o Supremo Tribunal Federal dirima a controvérsia sobre a questão prejudicial constitucional. Precedente: A.D.C. n 1. Art. 265, IV, do Código de Processo Civil. 4. As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas Ações Declaratórias de Constitucionalidade de lei ou ato normativo federal, produzem eficácia contra todos e até efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e ao Poder Executivo, nos termos do art. 102, § 2º , da C.F. 5. Em Ação dessa natureza, pode a Corte conceder medida cautelar que assegure, temporariamente, tal força e eficácia à futura decisão de mérito. E assim é, mesmo sem expressa previsão constitucional de medida cautelar na A.D.C., pois o poder de acautelar é imanente ao de julgar. Precedente do S.T.F.: RTJ-76/342. 6. Há plausibilidade jurídica na argüição de constitucionalidade, constante da inicial (\"fumus boni iuris\"). Precedente: ADIMC - 1.576-1. 7. Está igualmente atendido o requisito do \"periculum in mora\", em face da alta conveniência da Administração Pública, pressionada por liminares que, apesar do disposto na norma impugnada, determinam a incorporação imediata de acréscimos de vencimentos, na folha de pagamento de grande número de servidores e até o pagamento imediato de diferenças atrasadas. E tudo sem o precatório exigido pelo art. 100 da Constituição Federal, e, ainda, sob as ameaças noticiadas na inicial e demonstradas com os documentos que a instruíram. 8. Medida cautelar deferida, em parte, por maioria de votos, para se suspender, \"ex nunc\", e com efeito vinculante, até o julgamento final da ação, a concessão de tutela antecipada contra a Fazenda Pública, que tenha por pressuposto a constitucionalidade ou inconstitucionalidade do art. 1º da Lei nº 9.494, de 10.09.97, sustando-se, igualmente \"ex nunc\", os efeitos futuros das decisões já proferidas, nesse sentido.",
+  "tipo": "ADC",
+  "ultimaAtualizacao": "11/02/1998"
+}
+```

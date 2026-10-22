@@ -1,0 +1,143 @@
+---
+titulo: "Súmula nº 246 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "246"
+data: 2001-03-28
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 246 do STJ
+
+Súmula 246
+
+DIREITO CIVIL - DPVAT
+
+Enunciado
+O valor do seguro obrigatório deve ser deduzido da indenização
+judicialmente fixada.
+
+Órgão Julgador
+SEGUNDA SEÇÃO
+
+Data da Decisão
+28/03/2001
+
+Fonte
+DJ DATA:17/04/2001 PG:00149
+RSSTJ VOL.:00018 PG:00335
+RSTJ VOL.:00144 PG:00239
+RT VOL.:00787 PG:00183
+
+Referências Legislativas
+LEG:FED LEI:003071 ANO:1916
+***** CC-16 CODIGO CIVIL
+ART:00159 ART:01518
+
+Excerto dos Precedentes Originários
+"[...] AÇÃO DE INDENIZAÇÃO - MORTE DECORRENTE DE ACIDENTE DE TRÂNSITO -
+SEGURO OBRIGATÓRIO - DEDUÇÃO DO VALOR DA INDENIZAÇÃO. [...] A verba
+recebida pelos autores da indenizatória a título de seguro obrigatório
+deve ser deduzida do montante da indenização. [...]" (REsp 219035
+RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, julgado em
+02/05/2000, DJ 26/06/2000, p. 162)
+
+"[...] INDENIZAÇÃO. SEGURO OBRIGATÓRIO. O valor recebido por conta do
+seguro obrigatório deve ser deduzido da indenização fixada
+judicialmente. [...]" (REsp 117111 MG, Rel. Ministro ARI PARGENDLER,
+TERCEIRA TURMA, julgado em 10/04/2000, DJ 08/05/2000, p. 88)
+
+Página 900 de 2847
+
+"[...] AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. MORTE DA
+VÍTIMA. CONDENAÇÃO. SEGURO OBRIGATÓRIO. VALOR DA COBERTURA.
+DEDUTIBILIDADE DO MONTANTE DA INDENIZAÇÃO. [...] O valor do seguro
+obrigatório recebido pelos autores deve ser deduzido do montante da
+indenização a que foi condenada a empresa transportadora pela morte do
+passageiro. [...]" (REsp 73508 SP, Rel. Ministro ALDIR PASSARINHO
+JUNIOR, QUARTA TURMA, julgado em 06/04/2000, DJ 26/06/2000, p. 174)
+
+"Responsabilidade civil. Acidente sofrido por passageiro. [...] Seguro
+obrigatório. [...] O valor do seguro obrigatório, como assentado pela
+Corte, deve ser descontado da indenização fixada. [...]" (REsp
+174382 SP, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA
+TURMA, julgado em 05/10/1999, DJ 13/12/1999, p. 141)
+
+"[...] AÇÃO DE INDENIZAÇÃO. MORTE DECORRENTE DE ACIDENTE DE TRÂNSITO.
+SEGURO OBRIGATÓRIO. DEDUÇÃO DO VALOR DA INDENIZAÇÃO. [...] A verba
+recebida pelos autores da indenizatória, a título de seguro obrigatório,
+deve ser deduzida do montante da indenização. [...]" (REsp 106396
+PR, Rel. Ministro CESAR ASFOR ROCHA, QUARTA TURMA, julgado em
+13/04/1999, DJ 14/06/1999, p. 195)
+
+"[...] RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MORTE. [...] SEGURO
+OBRIGATÓRIO. DEDUÇÃO. [...] A VERBA RECEBIDA A TÍTULO DE SEGURO
+OBRIGATÓRIO NÃO IMPEDE O RECEBIMENTO DE QUALQUER OUTRA INDENIZAÇÃO, MAS
+DEVE SER ABATIDA DO MONTANTE DA CONDENAÇÃO." (REsp 119963 PI, Rel.
+Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em
+07/05/1998, DJ 22/06/1998, p. 86)
+
+"ACIDENTE DE VEÍCULO. FALECIMENTO DA VÍTIMA. INDENIZAÇÃO AOS FAMILIARES.
+SEGURO OBRIGATÓRIO. DEDUÇÃO DO 'QUANTUM' A SER INDENIZADO PELA RÉ. [...]
+O SEGURO OBRIGATÓRIO DE VEÍCULOS TEM A FINALIDADE DE REPARAR, AO MENOS
+PARCIALMENTE, OS DANOS CAUSADOS POR ACIDENTES DE TRÂNSITO, DEVENDO, POR
+ESTA RAZÃO, SER DEDUZIDO DO VALOR A SER PAGO À VÍTIMA OU AOS FAMILIARES
+PELO RÉU A TÍTULO DE INDENIZAÇÃO POR RESPONSABILIDADE CIVIL. [...]"
+(REsp 59823 SP, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO,
+TERCEIRA TURMA, julgado em 11/11/1996, DJ 16/12/1996, p. 50864)
+
+"ACIDENTE DE VEÍCULO - INDENIZAÇÃO - SEGURO OBRIGATÓRIO. A IMPORTÂNCIA
+RECEBIDA PELA VÍTIMA, EM VIRTUDE DO SEGURO EFETUADO PELO CAUSADOR DO
+DANO, HÁ DE SER DESCONTADA DA INDENIZAÇÃO A CUJO PAGAMENTO FOR ESSE
+CONDENADO." (REsp 39684 RJ, Rel. Ministro EDUARDO RIBEIRO, TERCEIRA
+TURMA, julgado em 07/05/1996, DJ 03/06/1996, p. 19247)
+
+Página 901 de 2847
+
+Precedentes
+
+REsp 219035 RJ 1999/0052142-0 Decisão:02/05/2000
+DJ DATA:26/06/2000 PG:00162
+RSSTJ VOL.:00018 PG:00369
+RSTJ VOL.:00144 PG:00272
+
+REsp 117111 MG 1997/0002259-5 Decisão:10/04/2000
+DJ DATA:08/05/2000 PG:00088
+RSSTJ VOL.:00018 PG:00354
+RSTJ VOL.:00144 PG:00256
+
+REsp 73508 SP 1995/0044284-1 Decisão:06/04/2000
+DJ DATA:26/06/2000 PG:00174
+RSSTJ VOL.:00018 PG:00345
+RSTJ VOL.:00144 PG:00247
+
+REsp 174382 SP 1998/0036584-2 Decisão:05/10/1999
+DJ DATA:13/12/1999 PG:00141
+LEXJTACSP VOL.:00182 PG:00640
+RSSTJ VOL.:00018 PG:00362
+RSTJ VOL.:00130 PG:00273
+RSTJ VOL.:00144 PG:00265
+
+REsp 106396 PR 1996/0055437-4 Decisão:13/04/1999
+DJ DATA:14/06/1999 PG:00195
+RSSTJ VOL.:00018 PG:00349
+RSTJ VOL.:00144 PG:00251
+
+REsp 119963 PI 1997/0010966-6 Decisão:07/05/1998
+DJ DATA:22/06/1998 PG:00086
+RSSTJ VOL.:00018 PG:00357
+RSTJ VOL.:00144 PG:00260
+
+REsp 59823 SP 1995/0004178-2 Decisão:11/11/1996
+DJ DATA:16/12/1996 PG:50864
+RSSTJ VOL.:00018 PG:00341
+RSTJ VOL.:00144 PG:00243
+
+REsp 39684 RJ 1993/0028641-2 Decisão:07/05/1996
+DJ DATA:03/06/1996 PG:19247
+RSSTJ VOL.:00018 PG:00339
+RSTJ VOL.:00144 PG:00241
+
+Página 902 de 2847

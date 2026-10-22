@@ -1,0 +1,154 @@
+---
+titulo: "Súmula nº 245 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "245"
+data: 2001-03-28
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 245 do STJ
+
+Súmula 245
+
+DIREITO BANCÁRIO - CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA
+
+Enunciado
+A notificação destinada a comprovar a mora nas dívidas garantidas
+por alienação fiduciária dispensa a indicação do valor do débito.
+
+Órgão Julgador
+SEGUNDA SEÇÃO
+
+Data da Decisão
+28/03/2001
+
+Fonte
+DJ DATA:17/04/2001 PG:00149
+RSSTJ VOL.:00018 PG:00299
+RSTJ VOL.:00144 PG:00203
+RT VOL.:00787 PG:00183
+
+Referências Legislativas
+LEG:FED DEL:000911 ANO:1969
+ART:00002 PAR:00002
+
+Excerto dos Precedentes Originários
+"ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. NOTIFICAÇÃO. A notificação
+destinada à comprovação da mora do devedor não precisa indicar o valor
+atualizado do débito. [...]" (REsp 113060 RS, Rel. Ministro CESAR
+ASFOR ROCHA, Rel. p/ Acórdão Ministro ARI PARGENDLER, SEGUNDA SEÇÃO,
+julgado em 23/08/2000, DJ 05/02/2001, p. 71)
+
+"[...] ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DECRETO-LEI 911/69, ART. 2º, §
+2º. NOTIFICAÇÃO. DEMONSTRATIVO DO DÉBITO GARANTIDO FIDUCIARIAMENTE.
+PRESCINDIBILIDADE. [...] A jurisprudência da Corte vem se firmando no
+sentido de que, na notificação prevista no art. 2º, § 2º do Decreto-Lei
+911/69, não se mostra imprescindível o demonstrativo da dívida garantida
+pelo alienante fiduciário, sendo bastante a referência ao contrato
+inadimplido." (REsp 231128 RS, Rel. Ministro SÁLVIO DE FIGUEIREDO
+TEIXEIRA, QUARTA TURMA, julgado em 16/11/1999, DJ 14/02/2000, p. 43)
+
+Página 896 de 2847
+
+"Alienação Fiduciária. Não é obrigatória a especificação do valor do
+débito, na notificação, para a comprovação da mora do devedor." (REsp
+196668 RS, Rel. Ministro EDUARDO RIBEIRO, TERCEIRA TURMA, julgado em
+13/05/1999, DJ 30/08/1999, p. 70)
+
+"[...] ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DECRETO-LEI 911/69, ART. 2º, §
+2º. NOTIFICAÇÃO. DEMONSTRATIVO DO DÉBITO GARANTIDO FIDUCIARIAMENTE.
+PRESCINDIBILIDADE. [...] A jurisprudência da Corte vem se firmando no
+sentido de que, na notificação prevista no art. 2º, § 2º do Decreto-Lei
+911/69, não se mostra imprescindível o demonstrativo da dívida garantida
+pelo alienante fiduciário, sendo bastante a referência ao contrato
+inadimplido." (REsp 164830 RS, Rel. Ministro SÁLVIO DE FIGUEIREDO
+TEIXEIRA, QUARTA TURMA, julgado em 18/08/1998, DJ 05/10/1998, p. 100)
+
+"ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. LIQUIDEZ DO DÉBITO. [...] Para
+formular o pedido de busca e apreensão do bem alienado fiduciariamente,
+basta ao credor fazer referência ao contrato não adimplido e comprovar a
+mora do devedor, sendo inoportuna no limiar da lide a discussão em torno
+da liquidez do débito. [...]" (REsp 142755 RS, Rel. Ministro BARROS
+MONTEIRO, QUARTA TURMA, julgado em 09/06/1998, DJ 21/09/1998, p. 181)
+
+"ALIENAÇÃO FIDUCIARIA. CONSTITUIÇÃO EM MORA. FALTA DE INDICAÇÃO DO VALOR
+DO DÉBITO. [...] COMO ESTÁ EM PRECEDENTE DA CORTE, A NOTIFICAÇÃO SERVE,
+APENAS A COMPROVAÇÃO DA MORA, COM O QUE 'NÃO É DE EXIGIR-SE, PARA ESSE
+EFEITO, MAIS DO QUE A REFERÊNCIA AO CONTRATO INADIMPLIDO, SENDO CERTO
+QUE, UMA VEZ ADMITIDA A PURGAÇÃO DA MORA, OS AUTOS SÃO REMETIDOS AO
+CONTADOR PARA CÁLCULO DO DÉBITO EXISTENTE, NA CONFORMIDADE DO DISPOSTO
+NO PARÁGRAFO 4. DO ART. 3. DO MULTICITADO DECRETO-LEI'. [...]" (REsp
+111227 RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA
+TURMA, julgado em 19/02/1998, DJ 13/04/1998, p. 116)
+
+"ALIENAÇÃO FIDUCIÁRIA - BUSCA E APREENSÃO - MORA - COMPROVAÇÃO -
+REQUISITOS [...] JURISPRUDÊNCIA QUE SE FIRMA, NO SENTIDO DE RECONHECER
+QUE, A TEOR DO DISPOSTO NO PARÁGRAFO 2., DO ART. 2., DO DECRETO-LEI
+911/69, NAS DÍVIDAS GARANTIDAS POR ALIENAÇÃO FIDUCIÁRIA, A MORA
+CONSTITUI-SE EX RE, EXIGINDO-SE, PARA COMPROVA-LA, A SIMPLES
+NOTIFICAÇÃO, VIA CARTÓRIO, CONTENDO REFERÊNCIA, APENAS, AO CONTRATO
+INADIMPLIDO. INADMISSÍVEL EXIGÊNCIA NO SENTIDO DE CONDICIONAR A VALIDADE
+DA NOTIFICAÇÃO A ESPECIALIZAÇÃO, NO RESPECTIVO DOCUMENTO, DO 'QUANTUM
+DEBEATUR'. [...]" (REsp 109918 RS, Rel. Ministro WALDEMAR ZVEITER,
+TERCEIRA TURMA, julgado em 04/12/1997, DJ 04/05/1998, p. 153)
+
+"ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. CONSTITUIÇÃO EM MORA. NAS
+DÍVIDAS GARANTIDAS POR ALIENAÇÃO FIDUCIÁRIA, A MORA CONSTITUI-SE 'EX
+RE', SEGUNDO O DISPOSTO NO PAR. 2. DO ART. 2. DO DECRETO-LEI N. 911/69,
+COM A NOTIFICAÇÃO SERVINDO APENAS A SUA COMPROVAÇÃO, NÃO SENDO DE
+
+Página 897 de 2847
+
+EXIGIR-SE, PARA ESSE EFEITO, MAIS DO QUE A REFERÊNCIA AO CONTRATO
+INADIMPLIDO. [...]" (REsp 37535 RS, Rel. Ministro PAULO COSTA LEITE,
+TERCEIRA TURMA, julgado em 30/09/1993, DJ 25/10/1993, p. 22492)
+
+Precedentes
+
+REsp 113060 RS 1996/0071122-4 Decisão:23/08/2000
+DJ DATA:05/02/2001 PG:00071
+JBCC VOL.:00188 PG:00115
+RSSTJ VOL.:00018 PG:00312
+RSTJ VOL.:00144 PG:00215
+
+REsp 231128 RS 1999/0084253-7 Decisão:16/11/1999
+DJ DATA:14/02/2000 PG:00043
+RSSTJ VOL.:00018 PG:00331
+RSTJ VOL.:00144 PG:00234
+
+REsp 196668 RS 1998/0088222-7 Decisão:13/05/1999
+DJ DATA:30/08/1999 PG:00070
+RSSTJ VOL.:00018 PG:00328
+RSTJ VOL.:00144 PG:00231
+
+REsp 164830 RS 1998/0012118-8 Decisão:18/08/1998
+DJ DATA:05/10/1998 PG:00100
+RSSTJ VOL.:00018 PG:00324
+RSTJ VOL.:00144 PG:00227
+
+REsp 142755 RS 1997/0054539-3 Decisão:09/06/1998
+DJ DATA:21/09/1998 PG:00181
+RSSTJ VOL.:00018 PG:00319
+RSTJ VOL.:00144 PG:00222
+
+REsp 111227 RS 1996/0066637-7 Decisão:19/02/1998
+DJ DATA:13/04/1998 PG:00116
+RSSTJ VOL.:00018 PG:00310
+RSTJ VOL.:00144 PG:00212
+
+REsp 109918 RS 1996/0062848-3 Decisão:04/12/1997
+DJ DATA:04/05/1998 PG:00153
+RSSTJ VOL.:00018 PG:00306
+RSTJ VOL.:00144 PG:00208
+
+REsp 37535 RS 1993/0021820-4 Decisão:30/09/1993
+DJ DATA:25/10/1993 PG:22492
+RSSTJ VOL.:00018 PG:00303
+RSTJ VOL.:00144 PG:00205
+RSTJ VOL.:00057 PG:00402
+Página 898 de 2847
+
+Página 899 de 2847

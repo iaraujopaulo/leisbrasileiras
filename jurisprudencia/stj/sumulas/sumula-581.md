@@ -1,0 +1,107 @@
+---
+titulo: "Súmula nº 581 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "581"
+data: 2016-09-14
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 581 do STJ
+
+Súmula 581
+
+DIREITO EMPRESARIAL - FALÊNCIA, CONCORDATA E RECUPERAÇÃO JUCICIAL
+
+Enunciado
+A recuperação judicial do devedor principal não impede o
+prosseguimento das ações e execuções ajuizadas contra
+terceiros devedores solidários ou coobrigados em geral,
+por garantia cambial, real ou fidejussória.
+
+Órgão Julgador
+SEGUNDA SEÇÃO
+
+Data da Decisão
+14/09/2016
+
+Fonte
+DJE DATA:19/09/2016
+RB VOL.:00637 PG:00081
+RSSTJ VOL.:00046 PG:00469
+
+Referências Legislativas
+LEG:FED LEI:013105 ANO:2015
+***** CPC-15 CÓDIGO DE PROCESSO CIVIL DE 2015
+ART:01036
+
+LEG:FED LEI:011101 ANO:2005
+***** LF-05 LEI DE RECUPERAÇÃO JUDICIAL E EXTRAJUDICIAL E DE
+FALÊNCIA
+ART:00006 ART:00049 PAR:00001 ART:00052 INC:00003
+ART:00059
+
+Precedentes
+
+AgRg no AgRg no AREsp 641967 RS 2014/0341541-5
+Decisão:15/03/2016
+DJE DATA:28/03/2016
+
+Página 2524 de 2847
+
+CC 142726 GO 2015/0207184-8 Decisão:24/02/2016
+DJE DATA:01/03/2016
+RSDCPC VOL.:00100 PG:00173
+
+AgRg no AREsp 579915 SP 2014/0211970-4 Decisão:16/02/2016
+DJE DATA:11/03/2016
+
+AgRg no AREsp 353436 SP 2013/0163094-7 Decisão:18/06/2015
+DJE DATA:26/06/2015
+
+REsp 1333349 SP 2012/0142268-4 Decisão:26/11/2014
+DJE DATA:02/02/2015
+RMP VOL.:00056 PG:00379
+RSSTJ VOL.:00046 PG:00469
+RSTJ VOL.:00236 PG:00324
+
+AgRg no REsp 1334284 MT 2012/0145873-7 Decisão:02/09/2014
+DJE DATA:15/09/2014
+
+REsp 1326888 RS 2012/0116271-2 Decisão:08/04/2014
+DJE DATA:05/05/2014
+
+AgRg no AREsp 276695 SP 2012/0272815-8 Decisão:18/02/2014
+DJE DATA:28/02/2014
+
+AgRg nos EDcl no REsp 1280036 SP 2011/0177296-5
+Decisão:20/08/2013
+DJE DATA:05/09/2013
+
+AgRg no AREsp 96501 RS 2011/0246645-0 Decisão:06/08/2013
+DJE DATA:20/08/2013
+
+AgRg na MC 20907 MS 2013/0119182-2 Decisão:25/06/2013
+DJE DATA:01/08/2013
+
+AgRg no REsp 1191297 RJ 2010/0078074-1 Decisão:25/06/2013
+DJE DATA:01/07/2013
+
+AgRg no AREsp 305907 RS 2013/0056522-8 Decisão:18/06/2013
+DJE DATA:28/06/2013
+
+AgRg no AREsp 133109 SP 2011/0300801-2 Decisão:05/02/2013
+DJE DATA:18/02/2013
+RDDP VOL.:00121 PG:00179
+
+Página 2525 de 2847
+
+REsp 1269703 MG 2011/0125550-9 Decisão:13/11/2012
+DJE DATA:30/11/2012
+
+EAg 1179654 SP 2011/0034134-5 Decisão:28/03/2012
+DJE DATA:13/04/2012
+
+Página 2526 de 2847

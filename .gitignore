@@ -9,23 +9,3 @@ __pycache__/
 *.py[cod]
 *.log
 *.tmp
-# Ignorar as pastas de dados pesadas
-_fonte/
-_indice/
-_referencias/
-estaduais/
-federal/
-fonte/
-jurisprudencia/
-municipais/
-reguladores/
-tratados/
-
-# Arquivos de log e temporários
-_log*.txt
-.DS_Store
-scripts/bin/
-__pycache__/
-*.py[cod]
-*.log
-*.tmp

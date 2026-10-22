@@ -1,0 +1,135 @@
+---
+titulo: "Súmula nº 201 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "201"
+data: 1997-12-17
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 201 do STJ
+
+Súmula 201
+
+DIREITO PROCESSUAL CIVIL - HONORÁRIOS ADVOCATÍCIOS
+
+Enunciado
+OS HONORARIOS ADVOCATICIOS NÃO PODEM SER FIXADOS EM
+SALARIOS-MINIMOS.
+
+Órgão Julgador
+CORTE ESPECIAL
+
+Data da Decisão
+17/12/1997
+
+Fonte
+DJ DATA:02/02/1998 PG:00180
+RDDT VOL.:00031 PG:00215
+RSSTJ VOL.:00014 PG:00341
+RSTJ VOL.:00108 PG:00017
+RT VOL.:00750 PG:00210
+
+Referências Legislativas
+LEG:FED CFD:000000 ANO:1988
+***** CF-88 CONSTITUIÇÃO FEDERAL
+ART:00007 INC:00004
+
+LEG:FED LEI:005869 ANO:1973
+***** CPC-73 CODIGO DE PROCESSO CIVIL
+ART:00020 PAR:00004
+
+LEG:FED LEI:006205 ANO:1975
+ART:00001
+
+LEG:FED LEI:007789 ANO:1989
+ART:00003
+
+Excerto dos Precedentes Originários
+"É VEDADA A FIXAÇÃO DA VERBA DE PATROCINIO EM SALARIOS-MINIMOS. [...] O
+caput do art. 1º da Lei n. 6.205/1975 estabelece: Os valores monetários
+
+Página 699 de 2847
+
+fixados com base no salário-mínimo não serão considerados para quaisquer
+fins de direito. O art. 3° da Lei n. 7.789/1989 reza: Fica vedada a
+vinculação do salário mínimo para qualquer fi m ressalvados os
+benefícios da prestação continuada pela Previdência Social. Por fim, o
+inciso IV do art. 7° da CF/1988 determina: Salário mínimo, fixado em
+lei, nacionalmente unificado, capaz de atender às suas necessidades
+vitais básicas e às de sua família com moradia, alimentação, educação,
+saúde, lazer, vestuário, higiene, transporte e previdência social, com
+reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada
+sua vinculação para qualquer fim. Como se vê, é vedada a fixação da
+verba de patrocínio em salários mínimos." (REsp 108228 DF, Rel.
+Ministro ADHEMAR MACIEL, SEGUNDA TURMA, julgado em 12/12/1996, DJ
+24/02/1997)
+
+"HONORARIOS DE ADVOGADO. REMUNERAÇÃO DO PROFISSIONAL FIXADA, NO
+CONTRATO, EM FUNÇÃO DE DETERMINADO NUMERO DE SALARIOS MINIMOS.
+INADMISSIBILIDADE. INADMISSIVEL A ADOÇÃO DO SALARIO MINIMO COMO FATOR DE
+INDEXAÇÃO[...]". (REsp 50255 MG, Rel. Ministro BARROS MONTEIRO,
+QUARTA TURMA, julgado em 07/03/1995, DJ 10/04/1995)
+
+"OS HONORARIOS DE ADVOGADO NÃO PODEM SER FIXADOS EM FUNÇÃO DO SALARIO -
+MINIMO (CONSTITUIÇÃO FEDERAL[...]" (REsp 57081 SP, Rel. Ministro
+HUMBERTO GOMES DE BARROS, PRIMEIRA TURMA, julgado em 23/11/1994, DJ
+19/12/1994)
+
+"OS HONORARIOS DE ADVOGADO NÃO PODEM SER FIXADOS EM FUNÇÃO DO
+SALARIO-MINIMO (CONSTITUIÇÃO FEDERAL[...]" (REsp 45574 SP, Rel.
+Ministro GARCIA VIEIRA, PRIMEIRA TURMA, julgado em 18/04/1994, DJ
+20/06/1994)
+
+"OS HONORARIOS DE ADVOGADO, PELA SUCUMBENCIA, NÃO PODEM SER FIXADOS EM
+FUNÇÃO DO SALARIO MINIMO, AINDA NA HIPOTESE EM QUE DEVA SER ATENDIDO O
+PAR-4. DO ART. 20 DO CPC." (REsp 25306 RS, Rel. Ministro DIAS
+TRINDADE, TERCEIRA TURMA, julgado em 22/06/1993, DJ 20/09/1993)
+
+"OS HONORARIOS DE ADVOGADO, SE A CAUSA É JULGADA IMPROCEDENTE, SÃO
+FIXADOS SEGUNDO OS LINEAMENTOS TRAÇADOS PELOS PARAGRAFOS 4. E 3. DO
+ARTIGO 20 DO CPC, NÃO PODENDO SER EXPRESSOS EM QUANTIA INFIMA E, COMO
+TAL, NÃO SE HA DE CONSIDERAR AQUELA CORRESPONDENTE A 10% DO
+SALARIO-MINIMO VIGENTE NO PAIS, PARA CADA UM DOS AUTORES." (REsp
+32622 SP, Rel. Ministro JESUS COSTA LIMA, QUINTA TURMA, julgado em
+28/04/1993, DJ 24/05/1993)
+
+Página 700 de 2847
+
+Precedentes
+
+REsp 108228 DF 1996/0058994-1 Decisão:12/12/1996
+DJ DATA:24/02/1997 PG:03325
+RSSTJ VOL.:00014 PG:00358
+RSTJ VOL.:00108 PG:00030
+
+REsp 50255 MG 1994/0018718-1 Decisão:07/03/1995
+DJ DATA:10/04/1995 PG:09295
+RSSTJ VOL.:00014 PG:00352
+RSTJ VOL.:00108 PG:00024
+RSTJ VOL.:00079 PG:00246
+
+REsp 57081 SP 1994/0035514-9 Decisão:23/11/1994
+DJ DATA:19/12/1994 PG:35292
+LEXJTACSP VOL.:00152 PG:00530
+RSSTJ VOL.:00014 PG:00356
+RSTJ VOL.:00108 PG:00028
+
+REsp 45574 SP 1994/0007730-0 Decisão:18/04/1994
+DJ DATA:20/06/1994 PG:16062
+RSSTJ VOL.:00014 PG:00348
+RSTJ VOL.:00108 PG:00022
+
+REsp 25306 RS 1992/0018845-1 Decisão:22/06/1993
+DJ DATA:20/09/1993 PG:19176
+RSSTJ VOL.:00014 PG:00345
+RSTJ VOL.:00108 PG:00019
+
+REsp 32622 SP 1993/0005355-8 Decisão:28/04/1993
+DJ DATA:24/05/1993 PG:10016
+RSSTJ VOL.:00014 PG:00346
+RSTJ VOL.:00108 PG:00020
+
+Página 701 de 2847

@@ -1,0 +1,108 @@
+---
+titulo: "Súmula nº 472 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "472"
+data: 2012-06-13
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 472 do STJ
+
+Súmula 472
+
+DIREITO BANCÁRIO - CONTRATO BANCÁRIO
+
+Enunciado
+A cobrança de comissão de permanência - cujo valor não pode
+ultrapassar a soma dos encargos remuneratórios e moratórios
+previstos no contrato - exclui a exigibilidade dos juros
+remuneratórios, moratórios e da multa contratual.
+
+Órgão Julgador
+SEGUNDA SEÇÃO
+
+Data da Decisão
+13/06/2012
+
+Fonte
+DJE DATA:19/06/2012
+RSSTJ VOL.:00043 PG:00031
+RSTJ VOL.:00226 PG:00863
+
+Referências Legislativas
+LEG:FED LEI:005869 ANO:1973
+***** CPC-73 CÓDIGO DE PROCESSO CIVIL DE 1973
+ART:0543C
+
+LEG:FED RES:000008 ANO:2008
+(SUPERIOR TRIBUNAL DE JUSTIÇA - STJ)
+
+LEG:FED RES:001129 ANO:1986
+(ITENS I E II DA RESOLUÇÃO DO BANCO CENTRAL DO BRASIL)
+
+LEG:FED SUM:******
+***** SUM(STJ) SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA
+SUM:000030 SUM:000294 SUM:000296
+
+Página 2003 de 2847
+
+Precedentes
+
+AgRg no REsp 1288624 SC 2011/0257692-3 Decisão:17/05/2012
+DJE DATA:24/05/2012
+
+AgRg no REsp 1299742 RS 2012/0003112-7 Decisão:19/04/2012
+DJE DATA:24/04/2012
+
+AgRg no REsp 1292170 SC 2011/0274773-2 Decisão:16/02/2012
+DJE DATA:01/03/2012
+
+AgRg no Ag 996936 SC 2007/0294629-2 Decisão:01/12/2009
+DJE DATA:14/12/2009
+
+AgRg nos EDcl nos EREsp 833711 RS 2007/0281580-5 Decisão:25/11/2009
+DJE DATA:02/12/2009
+
+AgRg no REsp 999885 RS 2007/0252781-1 Decisão:18/08/2009
+DJE DATA:31/08/2009
+
+REsp 1058114 RS 2008/0104144-5 Decisão:12/08/2009
+DJE DATA:16/11/2010
+RSSTJ VOL.:00043 PG:00031
+
+AgRg no REsp 1070680 MG 2008/0149710-6 Decisão:09/06/2009
+DJE DATA:22/06/2009
+
+AgRg nos EDcl no REsp 1054486 RS 2008/0098731-9 Decisão:10/02/2009
+DJE DATA:27/02/2009
+
+AgRg no REsp 1046920 RS 2008/0077419-7 Decisão:05/08/2008
+DJE DATA:22/09/2008
+
+AgRg nos EDcl no REsp 472169 RS 2002/0123051-6 Decisão:29/11/2006
+DJ DATA:18/12/2006 PG:00360
+
+AgRg no REsp 784876 RS 2005/0161812-1 Decisão:12/12/2005
+DJ DATA:13/03/2006 PG:00334
+
+REsp 660684 RS 2004/0071117-0 Decisão:24/05/2005
+DJ DATA:20/06/2005 PG:00282
+
+AgRg no REsp 706368 RS 2004/0169391-0 Decisão:27/04/2005
+DJ DATA:08/08/2005 PG:00179
+
+Página 2004 de 2847
+
+AgRg no REsp 712801 RS 2004/0183802-4 Decisão:27/04/2005
+DJ DATA:04/05/2005 PG:00154
+
+AgRg no REsp 536588 RS 2003/0065093-1 Decisão:18/05/2004
+DJ DATA:07/06/2004 PG:00221
+
+AgRg no Ag 251101 SP 1999/0061316-3 Decisão:13/08/2002
+DJ DATA:28/10/2002 PG:00321
+
+Página 2005 de 2847

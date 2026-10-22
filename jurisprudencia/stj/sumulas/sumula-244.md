@@ -1,0 +1,128 @@
+---
+titulo: "Súmula nº 244 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "244"
+data: 2000-12-13
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 244 do STJ
+
+Súmula 244
+
+DIREITO PROCESSUAL PENAL - COMPETÊNCIA
+
+Enunciado
+Compete ao foro do local da recusa processar e julgar o crime de
+estelionato mediante cheque sem provisão de fundos.
+
+Órgão Julgador
+TERCEIRA SEÇÃO
+
+Data da Decisão
+13/12/2000
+
+Fonte
+DJ DATA:01/02/2001 PG:00302
+RSSTJ VOL.:00018 PG:00277
+RSTJ VOL.:00144 PG:00183
+RT VOL.:00785 PG:00547
+
+Referências Legislativas
+LEG:FED DEL:002848 ANO:1940
+***** CP-40 CODIGO PENAL
+ART:00171 PAR:00002 INC:00006
+
+LEG:FED DEL:003689 ANO:1941
+***** CPP-41 CODIGO DE PROCESSO PENAL
+ART:00069 INC:00001 ART:00070
+
+Excerto dos Precedentes Originários
+"Segundo o comando expresso na súmula 521, do Supremo Tribunal Federal,
+o foro competente para processar e julgar crime de estelionato, sob a
+forma de emissão de cheque sem provisão de fundos, é o local onde
+ocorreu a recusa do pagamento pelo sacado." (CC 20880 CE, Rel.
+Ministro VICENTE LEAL, TERCEIRA SEÇÃO, julgado em 25/11/1998, DJ
+17/02/1999, p. 114)
+
+"Conforme entendimento sumular (Sum. 521/STF), compete ao juízo da
+Comarca em que houve a recusa do cheque por insuficiência de fundos,
+
+Página 893 de 2847
+
+processar e julgar o delito." (CC 19777 SP, Rel. Ministro JOSÉ
+ARNALDO DA FONSECA, TERCEIRA SEÇÃO, julgado em 12/08/1998, DJ
+08/09/1998, p. 18)
+
+"O foro competente, no caso do estelionato na modalidade de cheque sem
+fundos, é o do local onde se deu a recusa do pagamento." (CC 21700
+PA, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 24/06/1998,
+DJ 17/08/1998, p. 19)
+
+"O FORO COMPETENTE PARA O PROCESSO E JULGAMENTO DO CRIME DE ESTELIONATO,
+SOB A MODALIDADE DE CHEQUE SEM A SUFICIENTE PROVISÃO, EM PODER DO
+SACADO, E DO LOCAL ONDE SE DEU A RECUSA DO PAGAMENTO." (CC 15038 RS,
+Rel. Ministro LUIZ VICENTE CERNICCHIARO, TERCEIRA SEÇÃO, julgado em
+10/09/1997, DJ 16/03/1998, p. 13)
+
+"ESTELIONATO. EMISSÃO DOLOSA DE CHEQUE SEM FUNDO. SUMULA 521, DO STF. O
+FORO COMPETENTE E O LOCAL ONDE SE DEU A RECUSA DO PAGAMENTO PELO
+SACADO." (CC 6129 GO, Rel. Ministro JOSE CANDIDO DE CARVALHO FILHO,
+TERCEIRA SEÇÃO, julgado em 17/03/1994, DJ 30/05/1994, p. 13441)
+
+"O FORO COMPETENTE PARA O PROCESSO E JULGAMENTO DO CRIME DE ESTELIONATO,
+SOB A MODALIDADE DE CHEQUE SEM A SUFICIENTE PROVISÃO, EM PODER DO
+SACADO, E DE LOCAL ONDE SE DEU A RECUSA DO PAGAMENTO." (CC 3283 PR,
+Rel. Ministro LUIZ VICENTE CERNICCHIARO, TERCEIRA SEÇÃO, julgado em
+01/04/1993, DJ 30/08/1993, p. 17263)
+
+"EMISSÃO DE CHEQUE SEM PROVISÃO DE FUNDOS. APLICAÇÃO DA SUMULA 521 DO E.
+STF, IN VERBIS: 'O FORO COMPETENTE PARA O PROCESSO E O JULGAMENTO DOS
+CRIMES DE ESTELIONATO, SOB A MODALIDADE DOLOSA DE CHEQUE SEM PROVISÃO DE
+FUNDOS, E O DO LOCAL ONDE SE DEU A RECUSA DO PAGAMENTO PELO SACADO.'
+(CC 1932 MG, Rel. Ministro CARLOS THIBAU, TERCEIRA SEÇÃO, julgado em
+20/06/1991, DJ 30/09/1991, p. 13462)
+
+Precedentes
+
+CC 20880 CE 1997/0073988-0 Decisão:25/11/1998
+DJ DATA:17/02/1999 PG:00114
+RSSTJ VOL.:00018 PG:00292
+RSTJ VOL.:00144 PG:00195
+
+CC 19777 SP 1997/0034979-9 Decisão:12/08/1998
+DJ DATA:08/09/1998 PG:00018
+RSSTJ VOL.:00018 PG:00289
+RSTJ VOL.:00144 PG:00193
+
+Página 894 de 2847
+
+CC 21700 PA 1998/0009034-7 Decisão:24/06/1998
+DJ DATA:17/08/1998 PG:00019
+RSSTJ VOL.:00018 PG:00294
+RSTJ VOL.:00144 PG:00198
+
+CC 15038 RS 1995/0044654-5 Decisão:10/09/1997
+DJ DATA:16/03/1998 PG:00013
+RSSTJ VOL.:00018 PG:00287
+RSTJ VOL.:00144 PG:00190
+
+CC 6129 GO 1993/0026391-9 Decisão:17/03/1994
+DJ DATA:30/05/1994 PG:13441
+RSSTJ VOL.:00018 PG:00285
+RSTJ VOL.:00144 PG:00189
+
+CC 3283 PR 1992/0018524-0 Decisão:01/04/1993
+DJ DATA:30/08/1993 PG:17263
+RSSTJ VOL.:00018 PG:00283
+RSTJ VOL.:00144 PG:00187
+
+CC 1932 MG 1991/0005579-4 Decisão:20/06/1991
+DJ DATA:30/09/1991 PG:13462
+RSSTJ VOL.:00018 PG:00281
+RSTJ VOL.:00144 PG:00185
+
+Página 895 de 2847

@@ -1,0 +1,33 @@
+---
+titulo: "SOLUÇÃO DE CONSULTA Nº 2.003, DE 5 DE AGOSTO DE 2026"
+orgao: "Ministério da Fazenda/Secretaria Especial da Receita Federal do Brasil/Secretaria-Adjunta/Superintendência Regional da Receita Federal do Brasil 2ª Região Fiscal/Divisão de Tributação"
+tipo: "Solução de Consulta"
+numero: "2003"
+data: 2026-08-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/08/2026, seção 1, p. 36"
+data_publicacao: 2026-08-14
+edicao: "153"
+fonte: "https://www.in.gov.br/web/dou/-/solucao-de-consulta-n-2.003-de-5-de-agosto-de-2026-725564443"
+baixado_em: 2026-10-15
+---
+# SOLUÇÃO DE CONSULTA Nº 2.003, DE 5 DE AGOSTO DE 2026
+
+SOLUÇÃO DE CONSULTA Nº 2.003, DE 5 DE AGOSTO DE 2026
+
+Assunto: Imposto sobre a Renda de Pessoa Física - IRPF
+
+GANHO DE CAPITAL. ALIENAÇÃO DE IMÓVEL RESIDENCIAL. ISENÇÃO. ART. 39 DA LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005. APLICAÇÃO DO PRODUTO DA VENDA NA QUITAÇÃO DE EMPRÉSTIMO ENTRE PARTICULARES.
+
+Não se aplica a isenção do imposto sobre a renda incidente sobre o ganho de capital na venda de imóveis de que trata o inciso III do § 10 do art. 2º da Instrução Normativa RFB nº 599, de 28 de dezembro de 2005, nos casos em que a aquisição do imóvel residencial já possuído pelo alienante se deu à vista e a dívida a ser quitada decorre de empréstimo obtido por ele, cujos recursos foram utilizados na aquisição do imóvel, mas que não está diretamente ligado ao instrumento de aquisição do imóvel.
+
+Para fins da referida isenção, a dívida a ser quitada deve estar relacionada com a própria aquisição a prazo ou à prestação do imóvel residencial já possuído pelo alienante.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 14, DE 19 DE FEVEREIRO DE 2025.
+
+Dispositivos Legais: Lei nº 11.196, de 21 de novembro de 2005, art. 39; Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, art. 2º, § 10.
+
+ALDENIR BRAGA CHRISTO
+
+Chefe da Divisão

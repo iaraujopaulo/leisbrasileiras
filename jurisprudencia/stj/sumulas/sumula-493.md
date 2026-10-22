@@ -1,0 +1,85 @@
+---
+titulo: "Súmula nº 493 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "493"
+data: 2012-08-08
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 493 do STJ
+
+Súmula 493
+
+DIREITO PENAL - DAS PENAS
+
+Enunciado
+É inadmissível a fixação de pena substitutiva (art. 44 do CP) como
+condição especial ao regime aberto.
+
+Órgão Julgador
+TERCEIRA SEÇÃO
+
+Data da Decisão
+08/08/2012
+
+Fonte
+DJE DATA:13/08/2012
+RSSTJ VOL.:00043 PG:00369
+RSTJ VOL.:00227 PG:00952
+
+Referências Legislativas
+LEG:FED DEL:002848 ANO:1940
+***** CP-40 CÓDIGO PENAL
+ART:00044
+
+LEG:FED LEI:005869 ANO:1973
+***** CPC-73 CÓDIGO DE PROCESSO CIVIL DE 1973
+ART:0543C
+
+LEG:FED RES:000008 ANO:2008
+(SUPERIOR TRIBUNAL DE JUSTIÇA - STJ)
+
+LEG:FED LEI:007210 ANO:1984
+***** LEP-84 LEI DE EXECUÇÃO PENAL
+ART:00115
+
+Precedentes
+
+HC 228668 SP 2011/0304224-0 Decisão:15/03/2012
+DJE DATA:22/03/2012
+
+Página 2093 de 2847
+
+AgRg no HC 194120 SP 2011/0004571-7 Decisão:02/02/2012
+DJE DATA:21/03/2012
+
+HC 164326 SP 2010/0039343-3 Decisão:14/06/2011
+DJE DATA:01/08/2011
+
+HC 139457 SP 2009/0116703-3 Decisão:17/05/2011
+DJE DATA:01/06/2011
+
+HC 167390 SP 2010/0056881-5 Decisão:10/05/2011
+DJE DATA:25/05/2011
+
+HC 125410 SP 2008/0287052-2 Decisão:12/04/2011
+DJE DATA:09/05/2011
+
+AgRg no REsp 1102543 PR 2008/0260669-1 Decisão:15/03/2011
+DJE DATA:04/04/2011
+
+REsp 1107314 PR 2008/0282442-8 Decisão:13/12/2010
+DJE DATA:05/10/2011
+RSSTJ VOL.:00043 PG:00369
+RT VOL.:00914 PG:00592
+
+REsp 1110823 PR 2008/0282756-0 Decisão:13/12/2010
+DJE DATA:05/10/2011
+
+REsp 1110824 PR 2008/0282974-5 Decisão:13/12/2010
+DJE DATA:05/10/2011
+
+Página 2094 de 2847

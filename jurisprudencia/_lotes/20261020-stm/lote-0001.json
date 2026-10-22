@@ -1,0 +1,246 @@
+{
+  "capturado_em": "2026-10-20T19:34:05.939925",
+  "criterio": "súmulas individuais STM; conferência byte a byte com reextração integral dos PDFs oficiais preservados; canceladas identificadas",
+  "documentos": [
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-1.md",
+      "sha256": "4fee6587e8f43805a9f07e9056528821f8c109ddcc40b40889ca825557a67878",
+      "sha256_corpo": "26e66ebc6390a27f920b13bd73a8f1c2d9d228e6a8d10f11b0e2f625b04e48d5",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/33252/S%c3%bamula%20n%c2%b0%201.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-1.pdf",
+      "sha256_fonte": "c1a0fa8bc70fa1e2041c79f9b98cbd9168e496204abf6870da24af7cfa9264a3",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-10.md",
+      "sha256": "a076930d2ce7acc5aa8a4d5588caeddd051ef3d5a94db845319da9405ad3b6a4",
+      "sha256_corpo": "670114e12e094c0459feb46aa6874bde752f3993b824269a0d7acb2fbfb951ae",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50447/S%c3%bamula%20n%c2%b0%2010%20-%20cancelada_Dje.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-10.pdf",
+      "sha256_fonte": "cd024546cded6bac2b6076fb3314b8c829ca5af8da540ed0ee82eecaf2beaaab",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-11.md",
+      "sha256": "3ac7f962e2fc857e167cd6f592ac5cbb8e86bb4193eaf8743cbd11020bd43a06",
+      "sha256_corpo": "d90047265ade63a224d812c6e9aa6ca7465d55d418d865413eb11c761eb9dfd8",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50466/S%c3%bamula%20n%c2%b0%2011.pdf?sequence=4&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-11.pdf",
+      "sha256_fonte": "25e7cd65093f5b967c8a7895c885078e666f887b14e3495db97a42e7122c0b4b",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-12.md",
+      "sha256": "068c02779fca2bc1e6221d7264a0a2c816a73d63b6834c5cea40794f7698bf0d",
+      "sha256_corpo": "95a71e31b0a9552753d3e4ceb159515bfd8e81e53f3c955b0ce233f18af9b848",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50467/S%c3%bamula%20n%c2%b0%2012.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-12.pdf",
+      "sha256_fonte": "cdd23467664f098b341708ac341a3984cab28083791fa9ca6abfe88770f1be6a",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-13.md",
+      "sha256": "8da9394927dc15a148be6760bda70f69e3d3ec1e719884300af4401d6c6f04f7",
+      "sha256_corpo": "93f0ea66e4f557254a700fddd9f694dff8c3aa188ba53dfd91269cdeb2e9edda",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50468/S%c3%bamula%20n%c2%b0%2013.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-13.pdf",
+      "sha256_fonte": "c6754ebdc598b29331445ba9355efce6cca9bda4d1bc775a5a56798ad8b5023e",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-14.md",
+      "sha256": "f7f892d122821c2aa1c40064cdd1ffa4718a2dc47304ecb9a2733d900d2198b6",
+      "sha256_corpo": "0da4452cc8fa8a6fa4fe7e2540c8e927ff5c130634f70b8b13b8dfb726964dcd",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50469/S%c3%bamula%20n%c2%b0%2014.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-14.pdf",
+      "sha256_fonte": "3ab36ddba0fa14e5ae5e9192c2a1667dea30bf23b9f595118ad3e167285a51c9",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-15.md",
+      "sha256": "cfef61516f9655e023b3c36efebf77b479c479014eae8fe119b38b932f96120e",
+      "sha256_corpo": "ba20639c81fd4cbb5df37925776ae9ef18bc0fd65df54b878be8030f077b3ba8",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50470/S%c3%bamula%20n%c2%b0%2015.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-15.pdf",
+      "sha256_fonte": "b68a13e028c6d34f36a1c0bd73e4bdf992ebc40349611293eb4e0283d5daf280",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-16.md",
+      "sha256": "07208886822e7583a249b5f28ec9d58e431413c7800c52b310b0f7dc187a9bde",
+      "sha256_corpo": "9d1183a2d19a5ebb22f3c51edfdbcaae9904b1b8362bc01cd50052e142b5afcb",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/58634/S%c3%bamula%20n%c2%b0%2016.pdf?sequence=1&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-16.pdf",
+      "sha256_fonte": "22d8898d77618b9bd684ab800d14fba983b2d8839f08ad59d871ac8ac78b15a0",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-18.md",
+      "sha256": "d792029f4c31b27eb5207a89cade6555b3f7106ef1d8c45270d39cf7524c1f92",
+      "sha256_corpo": "9799cfc4a1ad7ea1c26c4f246e95b5fc0cdb693c5b8dc0a9c637047fc2eea3da",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/170331/S%c3%bamula%20n%c2%b0%2018.pdf?sequence=1&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-18.pdf",
+      "sha256_fonte": "dedaa1833fbedaea13d754b0cc2860e6fcdc2d79189360d8c081ef0a1f252d95",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-2.md",
+      "sha256": "45098132846a8a213bdd924b6330b1bea13ef39128a874280128075b817cfa1b",
+      "sha256_corpo": "e3d9ffc24e7b664cfdb3299dd1609f96d2c0bf658d42ece87327e9aaf2cf4bc2",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/43676/S%c3%bamula%20n%c2%b0%202.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-2.pdf",
+      "sha256_fonte": "5423b6bc040f3a9f9583326060297b144c5d7c64feaf247cb6589973e0e0a9f8",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-3.md",
+      "sha256": "e3a36e2be45a3469917d128f2de79537c934042568dc60038e70d43b81b0cb69",
+      "sha256_corpo": "fa1a44bd6f6a824c8bd947c48edd09ee431d4f55aec009ab008555aa4ea126c0",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/43679/S%c3%bamula%20n%c2%b0%203.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-3.pdf",
+      "sha256_fonte": "60c403042ac10b8a91cb9173a9fe8a95eeb88e4280a56208be170f01220cd613",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-4.md",
+      "sha256": "d2cb703cfff1827dbe597c6a454a9b811394577c17bcecef45450a8b15717280",
+      "sha256_corpo": "bcf635ce5fdc980e154c8f93bd661420c1f1b742a85a407752d4127d91513977",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/43680/S%c3%bamula%20n%c2%b0%204.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-4.pdf",
+      "sha256_fonte": "c5530540af961caf47772d825cd550b629abe7630ca19ac288eb520747709f67",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-5.md",
+      "sha256": "c9988d4a30d0fe78716eb5af6a24f27fa51fc675378f30bdbc3d45ebc4c0a044",
+      "sha256_corpo": "4b255f0ae6a3c7f0c46d2af132dbf6ce27487fc63adbec44303378806f368b41",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/43681/S%c3%bamula%20n%c2%b0%205.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-5.pdf",
+      "sha256_fonte": "e950594718a60545813c81dec2a11173bd0f0340d71af96ac62407c09e69b900",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-8.md",
+      "sha256": "a7172e3a443f66287a957c580dbbef90cc26090156aa694bf70b6e6d02a814a0",
+      "sha256_corpo": "4a421dfbf92d2ae935060a37fa1a1d74d6128ca67ece74c9add6091597350a1b",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50445/S%c3%bamula%20n%c2%b0%208.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-8.pdf",
+      "sha256_fonte": "600b8bae7921ad64fdadc878413a43761a04f63e334e5b71ebf1558996c4d618",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    },
+    {
+      "path": "jurisprudencia/outros-tribunais/stm/sumula-9.md",
+      "sha256": "653c6a1e30da428cfba92c4ad3c6eb0a8649ea48b9f12e7c7a217fdcddb0d3ba",
+      "sha256_corpo": "fa8a1b04f4a596309e57cbbf6480c9fe8e4bd0a5fbc0f9a3784b5e714ac8aaaa",
+      "fonte": "https://dspace.stm.jus.br/bitstream/handle/123456789/50446/S%c3%bamula%20n%c2%b0%209.pdf?sequence=3&isAllowed=y",
+      "pdf": "jurisprudencia/_fonte/stm/sumula-9.pdf",
+      "sha256_fonte": "7ab316490e6e1066cabf6bb7bde2f927619e1737473794b844e980647c0ac621",
+      "checks": {
+        "corpo_reextraido_integral": true,
+        "formato": true
+      },
+      "erros": [],
+      "avisos": [
+        "data não informada"
+      ]
+    }
+  ]
+}

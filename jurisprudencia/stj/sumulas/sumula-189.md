@@ -1,0 +1,163 @@
+---
+titulo: "Súmula nº 189 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "189"
+data: 1997-06-11
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 189 do STJ
+
+Súmula 189
+
+DIREITO PROCESSUAL CIVIL - EXECUÇÃO FISCAL
+
+Enunciado
+E DESNECESSARIA A INTERVENÇÃO DO MINISTERIO PUBLICO NAS EXECUÇÕES
+FISCAIS.
+
+Órgão Julgador
+PRIMEIRA SEÇÃO
+
+Data da Decisão
+11/06/1997
+
+Fonte
+DJ DATA:23/06/1997 PG:29331
+RDDT VOL.:00024 PG:00209
+RSSTJ VOL.:00013 PG:00385
+RSTJ VOL.:00101 PG:00193
+RT VOL.:00742 PG:00193
+
+Excerto dos Precedentes Originários
+"E DESNECESSARIA A INTERVENÇÃO DO MINISTERIO PUBLICO NAS CAUSAS FISCAIS,
+POIS O 'INTERESSE PUBLICO' INSERTO NO INC. III DO ART. 82 DO CPC NÃO
+EQUIVALE A 'INTERESSE DA FAZENDA PUBLICA'.[...] Lembro, ainda, que no
+Simpósio realizado em Curitiba em outubro de 1975 ficou assentado que 'a
+intervenção do Ministério Público, na hipótese prevista pelo art. 82,
+III, não é obrigatória. Compete ao juiz, porém, julgar a existência do
+interesse que a justifica' (conclusão I, publicada na RT 482/270)."
+(REsp 30150 PR, Rel. Ministro ADHEMAR MACIEL, SEGUNDA TURMA, julgado
+em 02/12/1996, DJ 03/02/1997)
+
+"EM REGRA GERAL, A OBRIGATORIEDADE DE PARTICIPAÇÃO DO MINISTERIO PUBLICO
+NA RELAÇÃO PROCESSUAL DEVE VIR EXPRESSA NA LEI. NA SISTEMATICA
+PROCESSUAL VIGENTE, O INTERESSE PUBLICO JUSTIFICADOR DA PRESENÇA DO
+'PARQUET' HA DE SER IMEDIATO E NÃO REMOTO, INEXISTINDO ENTRE ESTE E O
+INTERESSE DA FAZENDA PUBLICA, QUE DISPÕE DE PROCURADORES PARA DEFENDE-LA
+EM JUIZO E BENEFICIA-SE DO REEXAME COMPULSORIO DAS DECISÕES QUE LHE SÃO
+DESFAVORAVEIS. NA ESPECIE, O INTERESSE OU PARTICIPAÇÃO DE PESSOA
+JURIDICA DE DIREITO PUBLICO NA LIDE, POR SI, NÃO ALCANÇA DEFINIDO E
+RELEVANTE INTERESSE PUBLICO, FALTANTE EXPRESSA DISPOSIÇÃO LEGAL, DE MODO
+Página 651 de 2847
+
+A TORNAR OBRIGATORIA A INTERVENÇÃO DO MINISTERIO PUBLICO NA RELAÇÃO
+PROCESSUAL." (REsp 80581 SP, Rel. Ministro DEMÓCRITO REINALDO,
+PRIMEIRA TURMA, julgado em 26/03/1996, DJ 06/05/1996)
+
+"O SISTEMA PROCESSUAL CIVIL VIGENTE REVELA DUPLICE ATUAÇÃO DO MINISTERIO
+PUBLICO - PARTE E FISCAL DA LEI (ART. 499, PARAGRAFO 2., CPC) - A
+QUALIFICAÇÃO CUSTOS LEGIS TEM MERECIDO REPRIMENDA DOUTRINARIA. 2. OS
+INTERESSES SOCIAIS E INDIVIDUAIS INDISPONIVEIS (ART. 127, CF) SÃO
+PRESSUPOSTOS ASSEGURADORES DA LEGITIMIDADE PARA INTEGRAÇÃO DO MINISTERIO
+PUBLICO NA RELAÇÃO PROCESSUAL, EXERCITANDO AS SUAS FUNÇÕES E INFLUINDO
+NO ACERTAMENTO DO DIREITO OBJETO DE CONTRADIÇÃO, COM OS ONUS, FACULDADES
+E SUJEIÇÕES INERENTES A SUA PARTICIPAÇÃO INFLUENTE NO JULGAMENTO DO
+MERITO. ESSES PRESSUPOSTOS NÃO SÃO DIVISADOS NA EXECUÇÃO FISCAL. 3. O
+INTERESSE OU PARTICIPAÇÃO DE PESSOA JURIDICA DE DIREITO PUBLICO NA LIDE,
+POR SI, NÃO ALCANÇA DEFINIDO E RELEVANTE INTERESSE PUBLICO, FALTANTE
+EXPRESSA DISPOSIÇÃO LEGAL, DE MODO A TORNAR OBRIGATORIA A INTERVENÇÃO DO
+MINISTERIO PUBLICO NA RELAÇÃO PROCESSUAL. NÃO E A QUALIFICAÇÃO DA PARTE
+NEM O SEU INTERESSE PATRIMONIAL QUE EVIDENCIAM O 'INTERESSE PUBLICO',
+TIMBRADO PELA RELEVANCIA E TRANSCENDENCIA DOS SEUS REFLEXOS NO
+DESENVOLVIMENTO DA ATIVIDADE ADMINISTRATIVA. NESSA LINHA, SO A NATUREZA
+DA LIDE (NO CASO, EXECUÇÃO FISCAL) NÃO IMPOE A PARTICIPAÇÃO DO
+MINISTERIO PUBLICO. O INTERESSE NA EXECUÇÃO FISCAL E DE ORDEM
+PATRIMONIAL. 4. DE REGRA, A OBRIGATORIA PARTICIPAÇÃO DO MINISTERIO
+PUBLICO ESTA EXPRESSAMENTE ESTABELECIDA NA LEI. 5. A PALMA, FICA
+DERRISCADA A INTERVENÇÃO DO MINISTERIO PUBLICO, ACERTADO QUE O INTERESSE
+PUBLICO JUSTIFICADOR (ART. 82, III, CPC), NA EXECUÇÃO FISCAL, NÃO SE
+IDENTIFICA COM O DA FAZENDA PUBLICA, REPRESENTADA JUDICIALMENTE PELA SUA
+PROCURADORIA." (REsp 48771 RS, Rel. Ministro MILTON LUIZ PEREIRA,
+PRIMEIRA TURMA, julgado em 27/09/1995, DJ 06/11/1995)
+
+"A INTERVENÇÃO DO MINISTERIO PUBLICO NO PROCESSO DE EXECUÇÃO FISCAL NÃO
+E NECESSARIA, PORQUE O ESTADO AUTOR JA ESTA ASSISTIDO POR ORGÃO
+ESPECIALIZADO: SEU ADVOGADO. TORNAR OBRIGATORIA A INTERVENÇÃO DO MP, NO
+EXECUTIVO FISCAL SERIA REDUZIR A INUTILIDADE O ADVOGADO DE ESTADO.[...]
+O saudoso Professor José Frederico Marques - ainda na juventude do CPC
+de 1939 - dedicou a este dispositivo duas observações preciosas. Diz
+ele: Evidencia-se o interesse público pela natureza da lide em causas em
+que a aplicação do direito objetivo não pode ficar circunscrita às
+questões levantadas pelos litigantes, mas, ao contrário, deve alcançar
+valores mais relevantes que tenham primado na resolução processual do
+litígio. A qualidade da parte, como índice de interesse público
+emergente da lide, deve ser aferida tendo-se em vista o órgão ou pessoa
+que participe do processo como parte. Numa ação em que figure a União, o
+Estado, o Município, ou outra pessoa jurídica de direito público, a
+qualidade de litigante não é de molde a justificar a intervenção do
+custos legis. O mesmo não se dá, porém, em litígio em que seja parte,
+por exemplo, o Presidente da República, como tal, um Estado estrangeiro,
+ou as mesas das Câmaras do Congresso Nacional (cf. Lei n. 2.664, de
+
+Página 652 de 2847
+
+03.12.1955), e assim por diante, quando então incidirá a norma do art.
+82, III do novo Código de Processo Civil. (Manual de Direito Processual
+Civil - Saraiva - 3ª Ed. - 1975 - 1° Vol. - p. 294). No processo
+executivo fiscal, embora esteja em causa o patrimônio estatal, não está
+em jogo qualquer questão transcendente: a lide se circunscreve à
+discussão em torno da qualidade de um título executivo. De outro lado,
+embora uma das partes seja o Estado, seu interesse está sob patrocínio
+de um órgão especializado: o advogado de Estado. Tornar obrigatória a
+intervenção do MP na execução fiscal seria reduzir à inutilidade o
+advogado de Estado. O Superior Tribunal de Justiça tem dirigido sua
+jurisprudência no sentido de que na aferição da necessidade de
+intervenção do MP 'cumpre ponderar o efeito da situação jurídica a ser
+gerada pela decisão judicial.' (REsp n. 25.700-8- SP - Rel. Vicente
+Cernicchiaro)." (REsp 63529 PR, Rel. Ministro HUMBERTO GOMES DE
+BARROS, PRIMEIRA TURMA, julgado em 17/05/1995, DJ 07/08/1995)
+
+"NÃO E NECESSARIA A INTERVENÇÃO DO MINISTERIO PUBLICO EM EXECUÇÃO
+FISCAL, PORQUANTO O INTERESSE PUBLICO QUE A JUSTIFICARIA (C.P.C., ART.
+82, III) NÃO SE IDENTIFICA COM O DA FAZENDA PUBLICA, QUE E REPRESENTADA
+POR PROCURADOR E SE BENEFICIA DO DUPLO GRAU OBRIGATORIO (C.P.C., ART.
+475, III)." (REsp 52318 RS, Rel. MIN. ANTONIO DE PADUA RIBEIRO,
+SEGUNDA TURMA, julgado em 16/11/1994, DJ 05/12/1994)
+
+Precedentes
+
+REsp 30150 PR 1992/0031483-0 Decisão:02/12/1996
+DJ DATA:03/02/1997 PG:00685
+RSSTJ VOL.:00013 PG:00389
+RSTJ VOL.:00100 PG:00106
+RSTJ VOL.:00101 PG:00195
+
+REsp 80581 SP 1995/0061921-0 Decisão:26/03/1996
+DJ DATA:06/05/1996 PG:14388
+RSSTJ VOL.:00013 PG:00409
+RSTJ VOL.:00101 PG:00213
+
+REsp 48771 RS 1994/0015333-3 Decisão:27/09/1995
+DJ DATA:06/11/1995 PG:37541
+LEXSTJ VOL.:00080 PG:00188
+RSSTJ VOL.:00013 PG:00394
+RSTJ VOL.:00101 PG:00199
+RT VOL.:00725 PG:00157
+
+Página 653 de 2847
+
+REsp 63529 PR 1995/0016596-1 Decisão:17/05/1995
+DJ DATA:07/08/1995 PG:23023
+RSSTJ VOL.:00013 PG:00404
+RSTJ VOL.:00101 PG:00209
+
+REsp 52318 RS 1994/0024132-1 Decisão:16/11/1994
+DJ DATA:05/12/1994 PG:33551
+RSSTJ VOL.:00013 PG:00402
+RSTJ VOL.:00101 PG:00207
+
+Página 654 de 2847

@@ -1,0 +1,49 @@
+---
+titulo: "ADPF nº 765 do STF"
+tribunal: "STF"
+tipo: "ADPF"
+numero: "765"
+data:
+situacao: ""
+id_bnp: "stf-adpf-765"
+atualizacao_fonte: "18/05/2026"
+versao_texto: "Banco Nacional de Precedentes do CNJ"
+fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
+baixado_em: 2026-10-15
+---
+
+# ADPF nº 765 do STF
+
+## Registro original do CNJ
+
+```json
+{
+  "cautelar": "NAO",
+  "decisao": "MERITO",
+  "historico": [
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-06-02T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Admitido"
+    },
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-08-21T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Acórdão Publicado"
+    }
+  ],
+  "id": "stf-adpf-765",
+  "linkDecisao": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=799473361",
+  "nr": "765",
+  "orgao": "STF",
+  "possuiDecisoes": true,
+  "textoDecisao": "Após o voto da Ministra Cármen Lúcia (Relatora), que julgava procedente o pedido formulado na ação direta, para declarar inconstitucional todo e qualquer ato da Secretaria Especial de Comunicação Social do Ministério das Comunicações de produção de relatórios de monitoramento sobre as atividades de parlamentares e jornalistas em suas redes sociais, pediu vista dos autos o Ministro André Mendonça. Plenário, Sessão Virtual de 4.2.2022 a 11.2.2022. Decisão: Após o voto-vista do Ministro André Mendonça, que divergia da Relatora para, acolhendo as questões preliminares suscitadas, não conhecer da presente arguição, e, se vencido em relação às questões preliminares, no mérito, julgava improcedentes os pedidos deduzidos; e do voto do Ministro Alexandre de Moraes, que acompanhava a Relatora no sentido de converter a análise da cautelar em julgamento definitivo de mérito e julgar procedente o pedido para declarar inconstitucional todo e qualquer ato da Secretaria Especial de Comunicação Social do Ministério das Comunicações de produção de relatórios de monitoramento sobre as atividades de parlamentares e jornalistas em suas redes sociais, o processo foi destacado pelo Ministro Nunes Marques. Os Ministros Roberto Barroso e Rosa Weber (Presidente) anteciparam seus votos acompanhando a Ministra Relatora. Plenário, Sessão Virtual de 23.6.2023 a 30.6.2023. Decisão: (Destaque cancelado) O Tribunal, por maioria, não conheceu da arguição de descumprimento de preceito fundamental, nos termos do voto do Ministro André Mendonça (Redator para o acórdão), vencidos a Ministra Cármen Lúcia (Relatora) e os Ministros Alexandre de Moraes, Luís Roberto Barroso e Rosa Weber, que já haviam votado em assentada anterior. Não votou o Ministro Flávio Dino, sucessor da Ministra Rosa Weber. Plenário, Sessão Virtual de 8.5.2026 a 15.5.2026.",
+  "textoEmenta": "EMENTA: ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. MONITORAMENTO DAS ATIVIDADES DE PARLAMENTARES E JORNALISTAS EM REDES SOCIAIS POR MEIO DE CONTRATAÇÃO DE EMPRESA PRIVADA. ALEGAÇÃO DE DESVIO DE FINALIDADE E VIOLAÇÃO À LIBERDADE DE EXPRESSÃO. PRELIMINARES. ADEQUADA INDICAÇÃO DO ATO DO PODER PÚBLICO QUESTIONADO. INOBSERVÂNCIA DO PRINCÍPIO DA SUBSIDIARIEDADE. IMPOSSIBILIDADE DE CONTROLE ABSTRATO DE ATO COM EFICÁCIA EXAURIDA. MÉRITO: NÃO DEMONSTRAÇÃO DE VIOLAÇÃO A PRECEITO FUNDAMENTAL, NO PLANO ABSTRATO. ARGUIÇÃO NÃO CONHECIDA E, NO MÉRITO, JULGADA IMPROCEDENTE. I. Caso em exame 1. Trata-se de arguição de descumprimento de preceito fundamental que tem por objeto “ato da Secretaria de Governo e da Secretaria de Comunicações de produção de relatórios de monitoramento sobre as atividades de parlamentares e jornalistas em suas redes sociais”. II. Questão em discussão 2. Há duas questões em discussão: (i) preliminarmente, saber se é cabível o ajuizamento de ação de controle concentrado para impugnar a constitucionalidade do administrativo impugnado, cuja eficácia já se exauriu; e (ii) quanto ao mérito, saber se o ato impugnado malfere o preceito fundamental da liberdade de expressão, por configurar desvio de finalidade. III. Razões de decidir 3. Arguição proposta com o escopo de controlar a constitucionalidade de “ato da Secretaria de Governo e da Secretaria de Comunicações de produção de relatórios de monitoramento sobre as atividades de parlamentares e jornalistas em suas redes sociais”. Ausência de delimitação adequada do objeto inquinado, desprovido de coeficiente de normatividade primária. Ofensa meramente reflexa ao Texto Constitucional. Precedentes. 4. O respeito ao requisito da subsidiariedade é verdadeira condição de procedibilidade específica, peculiar à arguição de descumprimento de preceito fundamental. E, na esteira da jurisprudência deste Supremo Tribunal Federal, tal preceito obstaculiza que sejam analisados, na via da ADPF, a adequação, ou não, de atos administrativos que possam ter sua validade aferida por outros mecanismos de tutela jurisdicional, como, v.g.a ação popular. 5. Incabível o escrutínio, pela via abstrata, da constitucionalidade de ato cuja eficácia já tenha sido integralmente exaurida (cf. ADI nº 5.930-AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, j. 31/05/2019, p. 01/07/2019; ADI nº 6.537 ED-AgR/DF, Rel. Min. Marco Aurélio, Tribunal Pleno, j. 03/08/2021, p. 23/11/2021). 6. Conforme asseverou a Procuradoria-Geral da República, “[p]ode-se comparar o serviço de monitoramento de redes sociais aqui em exame àquele que muitos órgãos públicos utilizam: o clipping de notícias. [...] A propósito, como realçado nas informações, o monitoramento de redes sociais pela União, nos moldes aqui discutidos, dá-se desde 2015, com a celebração do primeiro contrato com empresa de comunicação digital. Ademais, outros entes da federação são destinatários de idêntico serviço” (e-doc. 40, p. 11-13). 7. Não demonstração de violações, no plano abstrato, pelos atos administrativos pretensamente impugnados, aos preceitos fundamentais suscitados. IV. Dispositivo e tese 8. Arguição de descumprimento de preceito fundamental não conhecida e, no mérito, julgada improcedente.",
+  "tipo": "ADPF",
+  "ultimaAtualizacao": "18/05/2026"
+}
+```

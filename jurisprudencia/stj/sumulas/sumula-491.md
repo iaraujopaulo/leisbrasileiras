@@ -1,0 +1,76 @@
+---
+titulo: "Súmula nº 491 do STJ"
+tribunal: "STJ"
+tipo: "Súmula"
+numero: "491"
+data: 2012-08-08
+revogada: false
+versao_texto: "caderno consolidado do tribunal"
+fonte: "https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf"
+baixado_em: 2026-10-15
+---
+# Súmula nº 491 do STJ
+
+Súmula 491
+
+DIREITO PENAL - PROGRESSÃO DE REGIME PRISIONAL
+
+Enunciado
+É inadmissível a chamada progressão per saltum de regime prisional.
+
+Órgão Julgador
+TERCEIRA SEÇÃO
+
+Data da Decisão
+08/08/2012
+
+Fonte
+DJE DATA:13/08/2012
+RSSTJ VOL.:00043 PG:00347
+RSTJ VOL.:00227 PG:00950
+
+Referências Legislativas
+LEG:FED LEI:007210 ANO:1984
+***** LEP-84 LEI DE EXECUÇÃO PENAL
+ART:00112
+
+Precedentes
+
+HC 191223 SP 2010/0215946-7 Decisão:01/03/2012
+DJE DATA:08/03/2012
+
+HC 173668 SP 2010/0093168-2 Decisão:01/09/2011
+DJE DATA:14/09/2011
+RSSTJ VOL.:00043 PG:00347
+
+HC 175477 SP 2010/0103645-4 Decisão:15/02/2011
+DJE DATA:09/03/2011
+
+HC 168588 SP 2010/0063658-3 Decisão:14/12/2010
+DJE DATA:01/02/2011
+RT VOL.:00907 PG:00497
+
+Página 2089 de 2847
+
+HC 157861 SP 2009/0248158-7 Decisão:27/05/2010
+DJE DATA:02/08/2010
+
+HC 153478 SP 2009/0222147-8 Decisão:11/05/2010
+DJE DATA:07/06/2010
+
+HC 151268 PR 2009/0206621-2 Decisão:20/04/2010
+DJE DATA:10/05/2010
+
+HC 136856 SP 2009/0096775-9 Decisão:04/02/2010
+DJE DATA:08/03/2010
+
+HC 112138 SP 2008/0167514-5 Decisão:19/08/2009
+DJE DATA:13/10/2009
+
+HC 84302 SP 2007/0129040-5 Decisão:19/03/2009
+DJE DATA:13/04/2009
+
+HC 46478 PR 2005/0127196-7 Decisão:26/04/2007
+DJE DATA:04/08/2008
+
+Página 2090 de 2847

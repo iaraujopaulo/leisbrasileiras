@@ -1,0 +1,48 @@
+---
+titulo: "ADI nº 14 do STF"
+tribunal: "STF"
+tipo: "ADI"
+numero: "14"
+data:
+situacao: ""
+id_bnp: "stf-adi-14"
+atualizacao_fonte: "13/09/1989"
+versao_texto: "Banco Nacional de Precedentes do CNJ"
+fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
+baixado_em: 2026-10-15
+---
+
+# ADI nº 14 do STF
+
+## Registro original do CNJ
+
+```json
+{
+  "cautelar": "NAO",
+  "decisao": "MERITO",
+  "historico": [
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-06-02T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Admitido"
+    },
+    {
+      "dataAdmissao": "2025-11-24",
+      "dataCriacao": "2026-08-21T00:00:00.000-03:00",
+      "dataJulgamento": "2026-04-29",
+      "dataPublicacao": "2026-04-30",
+      "situacao": "Acórdão Publicado"
+    }
+  ],
+  "id": "stf-adi-14",
+  "nr": "14",
+  "orgao": "STF",
+  "possuiDecisoes": true,
+  "textoAtoImpugnado": "LEG-FED CF ANO-1988 ART-00037 INC-00011 ART-00037 INC-00012 ART-00039 PAR-00001 ART-00093 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000035 ANO-1979 ART-00065 INC-00008 ART-00065 PAR-00001 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-FED LEI-007721 ANO-1989 ART-00002 PAR-00002 (INCONSTITUCIONALIDADE PARCIAL).",
+  "textoEmenta": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE PROPOSTA PELA ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS. O PARAGRAFO 2. DO ARTIGO 2. DA LEI FEDERAL N. 7.721, DE 6 DE JANEIRO DE 1989, QUANDO LIMITA OS VENCIMENTOS DOS MINISTROS DO SUPREMO TRIBUNAL FEDERAL - \"COMPUTADOS OS ADICIONAIS POR TEMPO DE SERVIÇO\" - A REMUNERAÇÃO MAXIMA VIGENTE NO PODER EXECUTIVO, VULNERA O ART. 39, PAR. 1., \"IN FINE\", DA CONSTITUIÇÃO, QUE SUJEITA A TAL LIMITE APENAS OS \"VENCIMENTOS\", EXCLUIDAS AS VANTAGENS \"PESSOAIS\". COMPATIBILIDADE DO CONCEITO DE \"VENCIMENTOS\" ESTABELECIDOS NA LEI COMPLEMENTAR N. 35/79 E EM OUTROS ARTIGOS DA LEI MAIOR COM A EXEGESE DO ALUDIO DISPOSITIVO CONSTITUCIONAL. PROCEDENCIA PARCIAL DA AÇÃO PARA DECLARAR INCONSTITUCIONAIS AS EXPRESSÕES\" ... E VANTAGENS PESSOAIS (ADICIONAIS POR TEMPO DE SERVIÇO)...\", CONSTANTE DO PAR. 2., ART. 2. DA LEI 7.721/89.",
+  "tipo": "ADI",
+  "ultimaAtualizacao": "13/09/1989"
+}
+```
